@@ -11,6 +11,6 @@
     <p>The current date and time is: <%= new java.util.Date() %></p>
 
     <!-- Add a link to go back to the homepage or other routes -->
-    <a href="/list">Go to list</a>
+    <a href="/todo/list">Go to list</a>
 </body>
 </html>
